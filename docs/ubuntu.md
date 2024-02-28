@@ -1,16 +1,16 @@
-## Ubuntu 22.04
+# Ubuntu 22.04
 
 
 
-### Installation
+## Installation
 
-#### [Youtube](https://www.youtube.com/playlist?list=PLGZ6M30GmbVM6qM-t1w5V0XBpHc_mNKYj)
+### [Youtube](https://www.youtube.com/playlist?list=PLGZ6M30GmbVM6qM-t1w5V0XBpHc_mNKYj)
 
 
 
-### Configuration
+## Configuration
 
-#### Chinese Keyboard
+### Chinese Keyboard
 
 1. Open Settings, go to `Language and Region` -> `Manage Installed Languages` -> `Install / Remove languages`.
 2. Select `Chinese (Simplified)`. Make sure `Keyboard Input method system` has `Ibus` selected. Apply.
@@ -21,9 +21,9 @@
 
 
 
-#### [How to Fix Windows and Linux Showing Different Times When Dual Booting](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/#:~:text=By%20default%2C%20Windows%20assumes%20the,make%20Windows%20use%20UTC%20time.)
+### [Fix Windows and Linux Showing Different Times When Dual Booting](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/#:~:text=By%20default%2C%20Windows%20assumes%20the,make%20Windows%20use%20UTC%20time.)
 
-##### Make Linux Use Local Time to Fix Time Discrepancy
+#### Make Linux Use Local Time to Fix Time Discrepancy
 
 Run the following command to put the real time clock on the motherboard into local time. Linux will store the time in local time, just like Windows does.
 
