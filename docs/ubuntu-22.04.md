@@ -45,3 +45,12 @@ If you ever want to undo this change, run the following command:
 timedatectl set-local-rtc 0 --adjust-system-clock
 ```
 
+
+
+## General Issues
+
+**Failed to fetch package using** `sudo apt update`
+
+- Make sure the method driver is installed
+  - `sudo apt install apt-transport-https`
+- Fix typo: Open your sources list (located at `/etc/apt/sources.list`) and any additional `.list` files under `/etc/apt/sources.list.d/`, and look for any malformed entries.

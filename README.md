@@ -2,12 +2,11 @@
 
 
 
-### [Ubuntu 22.04](docs/ubuntu.md)
+### [Ubuntu 22.04](docs/ubuntu-22.04.md)
 
 
 
-### [pyenv](docs/pyenv.md)
+## Python
 
-
-
-### [conda](docs/conda.md)
+- [Pyenv](docs/pyenv.md)
+- [Anaconda](docs/conda.md)
