@@ -1,6 +1,6 @@
 # Miscellaneous
 
-This repository maintains comprehensive guides on configuring common environments and addressing general issues I have met.
+This repository maintains guides on configuring common environments and addressing general issues I have met.
 
 <br>
 
