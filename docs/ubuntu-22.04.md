@@ -1,16 +1,16 @@
 # Ubuntu 22.04
 
-
+<br>
 
 ## Installation
 
-### [Youtube](https://www.youtube.com/playlist?list=PLGZ6M30GmbVM6qM-t1w5V0XBpHc_mNKYj)
+[Youtube](https://www.youtube.com/playlist?list=PLGZ6M30GmbVM6qM-t1w5V0XBpHc_mNKYj)
 
-
+<br>
 
 ## Configuration
 
-### Chinese Keyboard
+#### Chinese Keyboard
 
 1. Open Settings, go to `Language and Region` -> `Manage Installed Languages` -> `Install / Remove languages`.
 2. Select `Chinese (Simplified)`. Make sure `Keyboard Input method system` has `Ibus` selected. Apply.
@@ -19,9 +19,9 @@
 5. Click on the "+" sign under `Input sources`.
 6. Select `Chinese (China)` and then `Chinese (Intelligent Pinyin)`.
 
+<br>
 
-
-### [Fix Windows and Linux Showing Different Times When Dual Booting](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/#:~:text=By%20default%2C%20Windows%20assumes%20the,make%20Windows%20use%20UTC%20time.)
+#### [Fix Windows and Linux Showing Different Times When Dual Booting](https://www.howtogeek.com/323390/how-to-fix-windows-and-linux-showing-different-times-when-dual-booting/#:~:text=By%20default%2C%20Windows%20assumes%20the,make%20Windows%20use%20UTC%20time.)
 
 #### Make Linux Use Local Time to Fix Time Discrepancy
 
@@ -45,7 +45,7 @@ If you ever want to undo this change, run the following command:
 timedatectl set-local-rtc 0 --adjust-system-clock
 ```
 
-
+<br>
 
 ## General Issues
 
@@ -54,3 +54,4 @@ timedatectl set-local-rtc 0 --adjust-system-clock
 - Make sure the method driver is installed
   - `sudo apt install apt-transport-https`
 - Fix typo: Open your sources list (located at `/etc/apt/sources.list`) and any additional `.list` files under `/etc/apt/sources.list.d/`, and look for any malformed entries.
+

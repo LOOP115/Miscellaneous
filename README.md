@@ -1,10 +1,14 @@
 # Miscellaneous
 
+This repository maintains comprehensive guides on configuring common environments and addressing general issues I have met.
 
+<br>
 
-### [Ubuntu 22.04](docs/ubuntu-22.04.md)
+## OS
 
+- [Ubuntu 22.04](docs/ubuntu-22.04.md)
 
+<br>
 
 ## Python
 
