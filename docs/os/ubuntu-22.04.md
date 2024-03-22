@@ -55,3 +55,12 @@ timedatectl set-local-rtc 0 --adjust-system-clock
   - `sudo apt install apt-transport-https`
 - Fix typo: Open your sources list (located at `/etc/apt/sources.list`) and any additional `.list` files under `/etc/apt/sources.list.d/`, and look for any malformed entries.
 
+<br>
+
+**Snap Store update fails**
+
+```bash
+killall snap-store
+snap refresh
+```
+
