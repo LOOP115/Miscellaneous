@@ -6,6 +6,14 @@
 
 [Youtube](https://www.youtube.com/playlist?list=PLGZ6M30GmbVM6qM-t1w5V0XBpHc_mNKYj)
 
+### Flash OS images
+
+[balenaEtcher](https://etcher.balena.io/)
+
+### Restore the drive
+
+[How to Convert a Bootable USB Drive to Normal? [4 Ways]](https://www.partitionwizard.com/partitionmagic/convert-a-bootable-usb-drive-to-normal.html)
+
 <br>
 
 ## Configuration
